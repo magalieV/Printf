@@ -4,6 +4,7 @@
 
 The goal of this project is to recreate the printf function.
 
+---
 ## Use
 
 To use it, you must make all the source files.
